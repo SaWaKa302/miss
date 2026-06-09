@@ -2,7 +2,7 @@
 
 An interactive mobile-first map for international anime fans visiting Japan — find real-world filming locations, plan your pilgrimage route, and explore Japan through the anime you love.
 
-**🌐 Live site:** [sawaka302.github.io/-/](https://sawaka302.github.io/-/)
+**🌐 Live site:** https://sawaka302.github.io/Anime-Nippon/
 
 ---
 
